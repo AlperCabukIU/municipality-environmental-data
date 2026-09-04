@@ -1,0 +1,3 @@
+data/iot_telemetry_data.csv
+__pycache__/
+*.pyc
