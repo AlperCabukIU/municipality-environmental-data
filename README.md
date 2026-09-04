@@ -23,7 +23,7 @@ The complete dataset contains 405,184 measurements from three sensor devices.
 For easier reproduction of the project, the repository contains a sample with 15,000 measurements. The prototype was also tested successfully with the complete dataset.
 
 Dataset source:
-Environmental Sensor Telemetry Data - Gary Stafford, Kaggle
+[Environmental Sensor Telemetry Data](https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k) by Gary Stafford on Kaggle.
 
 ## Technologies
 
